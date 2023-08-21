@@ -1,11 +1,11 @@
-import { Box, Typography } from "@mui/icons-material";
+import { Box, Typography } from "@mui/material";
 import "./App.css";
 
 function App() {
 	return (
-		<Box className="App">
+		<div className="App">
 			<Typography>Hi</Typography>
-		</Box>
+		</div>
 	);
 }
 
